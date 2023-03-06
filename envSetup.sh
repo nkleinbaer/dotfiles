@@ -20,3 +20,5 @@ ln -sf $SCRIPT_DIR/zsh/oh-my-zsh ~/.oh-my-zsh
 ln -sf $SCRIPT_DIR/zsh/p10k.zsh ~/.p10k.zsh
 ln -sf $SCRIPT_DIR/xinit/xinitrc ~/.xinitrc 
 ln -sf $SCRIPT_DIR/git/gitconfig ~/.gitconfig 
+ln -sf $SCRIPT_DIR/lightdm/lightdm.conf /etc/lightdm/lightdm.conf 
+ln -sf $SCRIPT_DIR/lightdm/slick-greeter.conf /etc/lightdm/slick-greeter.conf  
