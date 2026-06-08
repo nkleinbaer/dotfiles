@@ -1,7 +1,0 @@
-[init]
-	defaultBranch = main
-[user]
-	email = nicholaskleinbaer@gmail.com
-	name = Nick Klein-Baer
-[core]
-	editor = nvim
