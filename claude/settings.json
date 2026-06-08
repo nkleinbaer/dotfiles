@@ -1,0 +1,16 @@
+{
+  "env": {
+    "EDITOR": "nvim"
+  },
+  "statusLine": {
+    "type": "command",
+    "command": "bash /home/nick/.claude/statusline-command.sh"
+  },
+  "effortLevel": "xhigh",
+  "voice": {
+    "enabled": false,
+    "mode": "hold"
+  },
+  "theme": "dark",
+  "voiceEnabled": false
+}

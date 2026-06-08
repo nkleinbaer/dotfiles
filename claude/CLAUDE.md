@@ -1,0 +1,3 @@
+- Before researching something with a year in the search term, use `date +%Y` to get the current year
+- If WebFetch fails (e.g. 403 error), fall back to curl to fetch the content.
+- When running `gh issue view`, always use `--json` with specific fields (e.g. `--json title,body,labels,assignees,comments`) to avoid the GraphQL "Projects classic deprecated" error.
